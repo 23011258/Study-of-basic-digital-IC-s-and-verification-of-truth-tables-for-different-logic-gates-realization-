@@ -1,4 +1,4 @@
-### NAME: YENDLURI CHANDANA                             REGISTRATION NUMBER:23011258
+### NAME: YENDLURI CHANDANA                                                                                                 REGISTRATION NUMBER:23011258
 
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
