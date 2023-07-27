@@ -7,9 +7,7 @@ To study about the different digital IC’s and to verify the truth table in Qua
 Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-### Theory
-### Introduction
-Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
+### Theory: Introduction: Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
 
@@ -66,15 +64,21 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
+### program:
+![image](https://github.com/23011258/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139842204/1713fdf6-4344-49cc-8d0c-fb06875910c6)
 
 
 ### wave 
+![image](https://github.com/23011258/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139842204/8bae17fe-89e6-4c33-a3e0-139f6bf3d08e)
+
 
 
 ### Truthtable
+![image](https://github.com/23011258/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139842204/91e1c625-3cfa-45a5-964a-bb904c67e22d)
+
+
 ### RTL realization
-### Output:
-RTL
+![image](https://github.com/23011258/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139842204/455aecf5-9f13-4809-a70a-3ed54170bf4e)
 
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
